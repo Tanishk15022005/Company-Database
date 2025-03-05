@@ -1,4 +1,4 @@
-#Employee Management Database
+#Employee Management Database:
 This repository contains SQL scripts for managing an employee database, including employee details, job history, departments, and salaries.
 
 📌 Features
